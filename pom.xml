@@ -44,7 +44,7 @@
             <configuration>
 
               <!--Required. Specifies the path to the project to execute.-->
-              <projectFile>C:\Users\Alex\workspace\webserviceTesting\Project-1-readyapi-project.xml</projectFile>
+              <projectFile>${basedir}\Project-1-readyapi-project.xml</projectFile>
 
               <!--Required for reports. Specifies the format of the report.-->
               <reportFormat>XML</reportFormat>
